@@ -1,7 +1,7 @@
 ﻿const f = document.getElementById('form');
 const q = document.getElementById('query');
 const google = 'https://www.google.com/search?q=site%3A+';
-const site = 'pagedart.com';
+const site = 'https://maxignatyev.github.io/portfolio/';
 
 function submitted(event) {
   event.preventDefault();
